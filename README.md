@@ -21,4 +21,6 @@ is wanted for a better system thank you
 sincerely
 stephen v
 
-[![CodeFactor](https://www.codefactor.io/repository/github/stephenv121/sapy.py/badge)](https://www.codefactor.io/repository/github/stephenv121/sapy.py)
+
+
+
