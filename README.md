@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1e067217b82a45f29f7ed4d78b595e02)](https://app.codacy.com/gh/Stephenv121/Sapy.py?utm_source=github.com&utm_medium=referral&utm_content=Stephenv121/Sapy.py&utm_campaign=Badge_Grade)
 [![CodeFactor](https://www.codefactor.io/repository/github/stephenv121/sapy.py/badge)](https://www.codefactor.io/repository/github/stephenv121/sapy.py)
 
 # Secure Token and Assembly Code Generator
